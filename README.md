@@ -14,6 +14,7 @@
 ## 2. Полезные ссылки:
 1. **Математический анализ:**
 * [Семинары, теория](https://sites.google.com/phystech.edu/alisa-sedunova-rus/%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+* [Результаты практики](https://docs.google.com/spreadsheets/d/1yVsBvswWFIuOKDVABM-DMWoLhiATgU34B8bOwcTBrQg/edit#gid=186001220)
 * [Семинары, запись на сдачу листков](https://docs.google.com/spreadsheets/d/18emYYVnz-tNqacqBiiqrD6Y1aw3ywRNyEh3p9S77JH8/edit#gid=0)
 * [Опрос слушателей](https://docs.google.com/forms/d/e/1FAIpQLScS2fAOvPXtuOVlu_MzY0kwNAJrDMRdr0NhGJ8hGk5Nq-hBYw/viewform)
 2. [**Теория множеств** (лекции, семинары)](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
