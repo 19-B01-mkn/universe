@@ -15,4 +15,3 @@
 ## Ссылки
 * [Материалы семинаров по анализу](https://sites.google.com/phystech.edu/alisa-sedunova-rus/%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Материалы лекций и дз по теории множеств](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
-Здесь будут появляться ссылки на другие (жизненно) полезные ресурсы
