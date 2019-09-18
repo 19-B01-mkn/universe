@@ -19,7 +19,7 @@
 * [Опрос слушателей](https://docs.google.com/forms/d/e/1FAIpQLScS2fAOvPXtuOVlu_MzY0kwNAJrDMRdr0NhGJ8hGk5Nq-hBYw/viewform)
 2. **Теория множеств:** [Теория (лекции, семинары)](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
 3. **Основы алгоритмов:** [Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
-4. **Алгебра** (ждём конспекта от Степанова)
+4. **Алгебра** [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
 
 ---
 
