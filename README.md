@@ -24,7 +24,7 @@
 4. **Алгебра** [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
 5. **Дискретная математика и теоретическая информатика:**
 * [Слайды с лекций](https://yadi.sk/d/4B4TnFbhVAye8Q)
-* [Практикумы Д.В.Карпова(задачи и файл с поисками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
+* [Практикумы Д.В.Карпова (задачи и файл с плюсиками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
 
 ---
 
