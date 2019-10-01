@@ -22,6 +22,9 @@
 * [Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
 * [Результаты практики](https://acm.math.spbu.ru/~gassa/bachelor-2019/results-fancy.html)
 4. **Алгебра** [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
+5. **Дискретная математика и теоретическая информатика:**
+* [Слайды с лекций](https://yadi.sk/d/4B4TnFbhVAye8Q)
+* [Практикумы Д.В.Карпова(задачи и файл с поисками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
 
 ---
 
