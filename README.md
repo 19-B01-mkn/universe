@@ -19,6 +19,7 @@
 * [Опрос слушателей](https://docs.google.com/forms/d/e/1FAIpQLScS2fAOvPXtuOVlu_MzY0kwNAJrDMRdr0NhGJ8hGk5Nq-hBYw/viewform)
 2. **Теория множеств:** [Теория (лекции, семинары)](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
 3. **Основы алгоритмов:** 
+* [Презентации, теория](http://acm.math.spbu.ru/~gassa/bachelor-2019/)
 * [Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
 * [Результаты практики](https://acm.math.spbu.ru/~gassa/bachelor-2019/results-fancy.html)
 4. **Алгебра** [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
