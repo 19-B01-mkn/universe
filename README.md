@@ -22,7 +22,9 @@
 * [Презентации, теория](http://acm.math.spbu.ru/~gassa/bachelor-2019/)
 * [Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
 * [Результаты практики](https://acm.math.spbu.ru/~gassa/bachelor-2019/results-fancy.html)
-4. **Алгебра** [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
+4. **Алгебра:** 
+* [Конспект лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
+* [Результаты листков](https://docs.google.com/spreadsheets/d/1JDueNDh_AV0O2BMQCJ33nerGVVWUx1QqjCE1UHvBbTg/edit#gid=0)
 5. **Дискретная математика и теоретическая информатика:**
 * [Слайды с лекций](https://yadi.sk/d/4B4TnFbhVAye8Q)
 * [Практикумы Д.В.Карпова (задачи и файл с плюсиками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
