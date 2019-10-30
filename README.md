@@ -9,16 +9,33 @@
 ---
 
 ## 1. Иерархия папок и файлов в репозитории:
-* В процессе заполнения...
+1. **Теоретическая информатика:** 
+* [Презентации с лекций](https://github.com/19-B01-mkn/universe/tree/master/Презентации%2C%20конспекты/Теоретическая%20информатика)
+* [Темы зачёта 28.10.19](https://github.com/19-B01-mkn/universe/blob/master/Презентации%2C%20конспекты/Теоретическая%20информатика/Вопросы%20к%20зачёту.pdf)
 
 ## 2. Полезные ссылки:
 1. **Математический анализ:**
 * [Семинары, теория](https://sites.google.com/phystech.edu/alisa-sedunova-rus/%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
 * [Семинары, запись на сдачу листков](https://docs.google.com/spreadsheets/d/18emYYVnz-tNqacqBiiqrD6Y1aw3ywRNyEh3p9S77JH8/edit#gid=0)
+<<<<<<< HEAD
 * [Результаты по практике](https://docs.google.com/spreadsheets/d/1yVsBvswWFIuOKDVABM-DMWoLhiATgU34B8bOwcTBrQg/edit#gid=186001220)
 2. **Теория множеств**[Теория(лекции, семинары)](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
 3. **Основы алгоритмов**[Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
 4. **Алгебра** (ждём конспекта от Степанова)
+=======
+* [Опрос слушателей](https://docs.google.com/forms/d/e/1FAIpQLScS2fAOvPXtuOVlu_MzY0kwNAJrDMRdr0NhGJ8hGk5Nq-hBYw/viewform)
+2. **Теория множеств:** [Теория (лекции, семинары)](http://users.math-cs.spbu.ru/~speranski/courses/sets-2019-autumn/materials.html)
+3. **Основы алгоритмов:** 
+* [Презентации, теория](http://acm.math.spbu.ru/~gassa/bachelor-2019/)
+* [Сайт сдачи программ](https://acm.math.spbu.ru/tsweb/index.html)
+* [Результаты практики](https://acm.math.spbu.ru/~gassa/bachelor-2019/results-fancy.html)
+4. **Алгебра:** 
+* [Конспекты лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
+* [Результаты сдачи листков](https://docs.google.com/spreadsheets/d/1JDueNDh_AV0O2BMQCJ33nerGVVWUx1QqjCE1UHvBbTg/edit#gid=0)
+5. **Дискретная математика и теоретическая информатика:**
+* [Слайды с лекций](https://yadi.sk/d/4B4TnFbhVAye8Q)
+* [Практикумы Д.В.Карпова (задачи и файл с плюсиками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
+>>>>>>> 7ef2eeb0defc2c559cd296545f13658f0b61678f
 
 ---
 
