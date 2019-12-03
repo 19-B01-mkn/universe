@@ -35,6 +35,7 @@
 * [Практикумы Д.В.Карпова (задачи и файл с плюсиками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
 6. **Топология**
 * [Запись на сдачу](https://docs.google.com/spreadsheets/d/1T46SveB0N0htKj63PZoPuaFIh-HzTuUuWUZlbmiZuT0/edit#gid=0)
+* [Презентации с лекций](http://pdmi.ras.ru/~svivanov/uni/uni.html)
 ---
 
 ### Обучение LaTeX, примеры конспектов:
