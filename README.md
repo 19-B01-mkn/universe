@@ -30,12 +30,15 @@
 4. **Алгебра:** 
 * [Конспекты лекций](http://alexei.stepanov.spb.ru/students/MKNalg.pdf)
 * [Результаты сдачи листков](https://docs.google.com/spreadsheets/d/1JDueNDh_AV0O2BMQCJ33nerGVVWUx1QqjCE1UHvBbTg/edit#gid=0)
+* [Запись на сдачу листков](https://docs.google.com/spreadsheets/d/1tV1Wh_BIYKszGIV8JpoxwqC9d0ATsMXQeGzEIvfFhMU/edit?usp=sharing)
 5. **Дискретная математика и теоретическая информатика:**
 * [Слайды с лекций](https://yadi.sk/d/4B4TnFbhVAye8Q)
 * [Практикумы Д.В.Карпова (задачи и файл с плюсиками за дз)](https://logic.pdmi.ras.ru/~dvk/chb/1s/)
-6. **Топология**
+6. **Топология:**
 * [Запись на сдачу](https://docs.google.com/spreadsheets/d/1T46SveB0N0htKj63PZoPuaFIh-HzTuUuWUZlbmiZuT0/edit#gid=0)
 * [Презентации с лекций](http://pdmi.ras.ru/~svivanov/uni/uni.html)
+7. **Математическая логика:**
+* [Презентации и домашние задания](https://users.math-cs.spbu.ru/~speranski/courses/logic-1-2020-spring/materials.html)
 ---
 
 ### Обучение LaTeX, примеры конспектов:
